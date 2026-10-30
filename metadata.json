@@ -1,0 +1,8 @@
+{
+  "name": "El Mundo de Lucy",
+  "description": "Videojuego de rol, simulación en mundo abierto y lectoescritura en español junto a Lucy, Happy y Fede.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
